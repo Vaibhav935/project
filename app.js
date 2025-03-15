@@ -1,3 +1,3 @@
 // Add new feature - button.
 
-// Add new feature - file
+// Add new feature - file.
